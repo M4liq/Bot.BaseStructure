@@ -1,0 +1,7 @@
+﻿{
+  "Proxies": {
+    "ProxyConnectionStrings": [
+      "1.1.1.1:1111:user:password"
+    ]
+  }
+}
